@@ -5,7 +5,7 @@
 <p>操作系统：Centos/Ubuntu</p>
 
 <h2>安装</h2>
-<p>git clone https://gitee.com/jymolong/btpanel-ss.git</p>
+<p>git clone https://github.com/chainmex/btpanel-ss.git</p>
 <p>cd btpanel-ss</p>
 <p>bash install.sh install</p>
 
